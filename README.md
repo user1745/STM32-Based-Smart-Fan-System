@@ -2,7 +2,7 @@
 
 ## 1、演示视频
 
-
+【基于STM32的智能风扇系统】https://www.bilibili.com/video/BV1SdLn6JES4?vd_source=8a3cfebb5b0c7324aa168aa85736dd91
 
 ## 2、系统硬件
 
