@@ -341,7 +341,7 @@
               <MiscControls>--no-multibyte-chars</MiscControls>
               <Define>USE_STDPERIPH_DRIVER</Define>
               <Undefine></Undefine>
-              <IncludePath>.\Start;.\Library;.\User;.\System;.\Hardware;.\Hardware\Mpu6050;.\Control</IncludePath>
+              <IncludePath>.\Start;.\Library;.\User;.\System;.\Hardware;.\Control</IncludePath>
             </VariousControls>
           </Cads>
           <Aads>
