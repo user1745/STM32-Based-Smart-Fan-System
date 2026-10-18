@@ -1,22 +1,24 @@
+[English](README-en.md)
+
 # STM32-Based Smart Fan System
 
-A smart fan controller based on STM32F103C8T6 with an OLED menu, four control modes, environmental sensing and Bluetooth.
+基于 STM32F103C8T6 的智能风扇系统，包含 OLED 菜单、四种控制模式、温湿度与烟雾检测。
 
-## Project notes
+## 项目说明
 
-Open Project.uvprojx in Keil; ST-Link is supported. For HC-05 flashing, keep the application address, vector offset and baud rate consistent with the bootloader, and use current-limited unloaded tests.
+使用 Keil 打开 Project.uvprojx；支持 ST-Link。HC-05 下载时需保持应用地址、向量表偏移和波特率与 Bootloader 一致，并先进行限流、空载测试。
 
-## Quick start
+## 快速开始
 
 ```bash
 git clone https://github.com/user1745/STM32-Based-Smart-Fan-System.git
 cd STM32-Based-Smart-Fan-System
 ```
 
-## Resources
+## 相关资源
 
-Refer to the repository files, demo links and hardware/system configuration. Third-party components retain their own licenses.
+请以仓库现有目录、演示链接和硬件/系统配置为准；涉及第三方组件时遵循其许可证。
 
-## License
+## 许可证
 
-Original code, project files and documentation are released under the [MIT License](LICENSE). Third-party components and external assets retain their own terms.
+原创代码、工程文件和文档按 [MIT License](LICENSE) 发布；第三方组件和外部素材遵循各自条款。
